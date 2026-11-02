@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-algolia-api-keys
+  description: >
+    Create Algolia API Keys in algolia
+  annotations:
+    github.com/project-slug: Flaconi/terraform-algolia-api-keys
+  tags:
+    - terraform
+    - algolia
+    - api-keys
+
+spec:
+  type: library
+  lifecycle: production
+  owner: group:platform
+  providesApis: []
