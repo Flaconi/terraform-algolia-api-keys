@@ -19,7 +19,7 @@ For requirements regarding module structure: [style-guide-terraform.md](https://
 
 | Name | Version |
 |------|---------|
-| <a name="provider_algolia"></a> [algolia](#provider\_algolia) | 0.6.0 |
+| <a name="provider_algolia"></a> [algolia](#provider\_algolia) | 0.6.2 |
 
 <!-- TFDOCS_PROVIDER_END -->
 
@@ -29,7 +29,7 @@ For requirements regarding module structure: [style-guide-terraform.md](https://
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.5 |
-| <a name="requirement_algolia"></a> [algolia](#requirement\_algolia) | 0.6.0 |
+| <a name="requirement_algolia"></a> [algolia](#requirement\_algolia) | 0.6.2 |
 
 <!-- TFDOCS_REQUIREMENTS_END -->
 
